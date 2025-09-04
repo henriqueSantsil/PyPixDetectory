@@ -4,7 +4,7 @@
 
 Este projeto tem como objetivo desenvolver um modelo de Machine Learning para identificar transações anômalas (potencialmente fraudulentas) em um dataset sintético de transações Pix, disponível no Kaggle. O projeto percorre todas as etapas de um pipeline de Ciência de Dados, desde a análise exploratória até a avaliação de modelos de classificação.
 
-**Link para o Dataset:** [Pix Fraud Detection Dataset no Kaggle]((https://www.kaggle.com/datasets/juniorbueno/pix-banking-transaction))
+**Link para o Dataset:** [Pix Fraud Detection Dataset no Kaggle](https://www.kaggle.com/datasets/juniorbueno/pix-banking-transaction)
 
 ## Objetivo de Negócio
 
